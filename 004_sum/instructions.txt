@@ -1,0 +1,5 @@
+
+[input.txt] contains 17 numbers. (and a blank line)
+
+You want to know the sum of these numbers.
+
