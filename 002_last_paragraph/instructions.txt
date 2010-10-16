@@ -1,0 +1,6 @@
+
+[input.txt] contains 49 lines broken up in 7 paragraphs.
+
+You want to isolate the last paragraph. Don't rely on last paragraph being a
+specific number of lines. Make it work independently of the number of lines.
+
