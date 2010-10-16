@@ -1,3 +1,12 @@
+About
+-----------------------------
+
+Blog post: [Command-line One-liner Challenges](http://technotales.wordpress.com/2010/10/15/command-line-one-liner-challenges/)
+
+Watch this project, I'll add more challenges over time.
+
+How it works
+-----------------------------
 
 There are 4 files to know about:
 
