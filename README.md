@@ -1,5 +1,6 @@
 
 There are 4 files to know about:
+
 * input.txt    -- The input file.
 * compare.sh   -- What you need to run. Some implementation is missing.
 * actual.txt   -- The output of the transformed input.txt. Created by running compare.sh.
@@ -12,9 +13,9 @@ compare.sh file.
 In the problem directory, you need to implement the convert function inside
 compare.sh. This is always the same, a passthrough function:
 
-  convert() {
-    cat "$@"
-  }
+    convert() {
+      cat "$@"
+    }
 
 You are aiming for a one-liner. It should be as functional as possible: no
 variables, temporary files, or side-effects.
@@ -25,7 +26,7 @@ Invoke compare.sh
 
 There is still work to do if you get:
 
-  Files actual.txt and expected.txt differ
+    Files actual.txt and expected.txt differ
 
 If you are debugging, you can change the diff command to whatever suits you:
 
