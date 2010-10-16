@@ -1,0 +1,5 @@
+
+[input1.txt] contains 12 numbers and [input2.txt] contains 13 numbers.
+
+You want to known the numbers they have in common. (intersection)
+
