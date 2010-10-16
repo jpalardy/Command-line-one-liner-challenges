@@ -1,0 +1,5 @@
+
+[input.txt] contains 1000 random numbers from 0 to 9.
+
+You want to count how many of each is present in the file.
+
