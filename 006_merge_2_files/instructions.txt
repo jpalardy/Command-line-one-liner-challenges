@@ -1,0 +1,5 @@
+
+[input1.txt] contains 10 lines. [input2.txt], also, contains 10 lines.
+
+You want both files merged into a file. Use commas to separate the fields.
+
