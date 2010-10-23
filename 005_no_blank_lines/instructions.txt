@@ -1,0 +1,5 @@
+
+[input.txt] contains number and blank lines.
+
+You don't want blank lines.
+
