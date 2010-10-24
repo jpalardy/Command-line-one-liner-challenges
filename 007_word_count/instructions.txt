@@ -1,0 +1,19 @@
+
+[input.txt] contains the 2nd chapter of Tom Sawyer.
+
+You want to count how many times the word "the" is found in the text.
+
+Hints:
+
+The answer is not 68.
+The answer is not 72.
+The answer is not 77.
+The answer is not 81.
+The answer is not 84.
+The answer is not 101.
+The answer is not 110.
+
+Note:
+
+Whitespace checks are disabled for diff. It's not relevant to this challenge.
+
