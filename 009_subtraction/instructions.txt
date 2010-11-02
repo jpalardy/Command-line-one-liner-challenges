@@ -1,0 +1,5 @@
+
+[input1.txt] contains numbers from 5 to 25. [input2.txt] contains numbers from 10 to 30.
+
+You want to remove from [input1.txt] the numbers present in [input2.txt]. This is set subtraction.
+
