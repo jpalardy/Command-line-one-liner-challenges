@@ -1,0 +1,5 @@
+
+[input.txt] contains the 2nd chapter of Tom Sawyer.
+
+You want to know how many characters compose the longest line.
+
