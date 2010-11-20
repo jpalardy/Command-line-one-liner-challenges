@@ -1,0 +1,11 @@
+
+Jaccard index: http://en.wikipedia.org/wiki/Jaccard_index
+
+  The Jaccard coefficient measures similarity between sample sets, and is
+  defined as the size of the intersection divided by the size of the union of
+  the sample sets
+
+[input1.txt] contains 5 numbers. [input2.txt] also contains 5 numbers.
+
+You want to know how similar those sets are. You want to know the Jaccard coefficient.
+
