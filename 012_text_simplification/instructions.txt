@@ -1,0 +1,26 @@
+
+[input.txt] contains text in French with many *cough-cough* funny characters.
+
+You want to "simplify" the text by removing the accents and cedillas. This
+could be used to normalize text for comparison, especially when it comes to
+search.
+
+For example:
+
+ é -> e
+ ç -> c
+ à -> a
+ (so on...)
+
+Try not to hardcode the solution. Aim for a robust solution that would work
+with other languages.
+
+*** NOTES ***
+
+This might be one of those you-either-know-or-you-don't kind of problem. Don't
+let it drive you crazy.
+
+If you don't get exactly the behavior you want on Mac OS X, this page might be
+of interest: http://bit.ly/ea7R2i -- it's also a spoiler if you haven't figured
+out how to solve the problem.
+
