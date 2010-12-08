@@ -1,0 +1,8 @@
+
+[input.txt] contains part of the 2nd chapter of Tom Sawyer.
+
+In English, the word "the" is very frequent. You want to visualize its presence
+over the paragraphs without losing the context.
+
+Use "cat" on [expected.txt] to see the highlighted words.
+
