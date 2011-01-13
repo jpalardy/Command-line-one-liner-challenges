@@ -1,0 +1,9 @@
+
+[input.txt] contains a bunch of numbers, including duplicates.
+
+You want to remove duplicates _AND_ keep the order of the numbers intact.
+
+Hints:
+
+The solution was NOT spoiled by the name of the directory :-)
+
