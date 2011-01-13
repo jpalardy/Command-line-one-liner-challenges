@@ -1,5 +1,5 @@
 
 [input.txt] contains 19 lines.
 
-You want to combine these lines into 1 line, separated by a comma.
+You want to combine these lines into 1 line. Use commas to separate the fields.
 
